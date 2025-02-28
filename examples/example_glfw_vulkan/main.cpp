@@ -351,6 +351,7 @@ static void FramePresent(ImGui_ImplVulkanH_Window* wd)
 }
 
 // Main code
+#pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
 int main(int, char**)
 {
     glfwSetErrorCallback(glfw_error_callback);

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\ImGUI-test\\MyApplication\\examples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|solutionrelative:example_glfw_vulkan\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|solutionrelative:example_glfw_vulkan\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -12,10 +16,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|C:\\dev\\ImGUI-test\\MyApplication\\imgui_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57E2DF5A-6FC8-45BB-99DD-91A18C646E80}|example_glfw_vulkan\\example_glfw_vulkan.vcxproj|solutionrelative:example_glfw_vulkan\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,7 +33,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "imgui_demo.cpp",
               "DocumentMoniker": "C:\\dev\\ImGUI-test\\MyApplication\\imgui_demo.cpp",
               "RelativeDocumentMoniker": "..\\imgui_demo.cpp",
@@ -41,25 +41,23 @@
               "RelativeToolTip": "..\\imgui_demo.cpp",
               "ViewState": "AgIAAMAXAAAAAAAAAAAuwM8XAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T15:25:21.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T15:25:21.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Application.cpp",
               "DocumentMoniker": "C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\Application.cpp",
               "RelativeDocumentMoniker": "example_glfw_vulkan\\Application.cpp",
               "ToolTip": "C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\Application.cpp",
               "RelativeToolTip": "example_glfw_vulkan\\Application.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T14:50:40.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T14:50:40.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Application.h",
               "DocumentMoniker": "C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\Application.h",
               "RelativeDocumentMoniker": "example_glfw_vulkan\\Application.h",
@@ -67,18 +65,17 @@
               "RelativeToolTip": "example_glfw_vulkan\\Application.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-28T14:50:24.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T14:50:24.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\main.cpp",
               "RelativeDocumentMoniker": "example_glfw_vulkan\\main.cpp",
               "ToolTip": "C:\\dev\\ImGUI-test\\MyApplication\\examples\\example_glfw_vulkan\\main.cpp",
               "RelativeToolTip": "example_glfw_vulkan\\main.cpp",
-              "ViewState": "AgIAAFQBAAAAAAAAAAAQwGIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAuwGIBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-28T14:28:01.848Z",
               "EditorCaption": ""
