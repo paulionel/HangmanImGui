@@ -1,0 +1,72 @@
+# Ignore build files
+/build/
+/out/
+/bin/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.ncb
+*.vcxproj
+*.vcxproj.filters
+*.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore generated files
+*.log
+*.tmp
+*.cache
+
+# Ignore GitHub-specific directory
+.github/
+
+# Ignore documentation (assuming you don't want it in Git)
+docs/
+
+# Ignore backup and intermediate files in examples
+examples/**/build/
+examples/**/bin/
+examples/**/obj/
+examples/**/CMakeFiles/
+examples/**/CMakeCache.txt
+
+# Ignore compiled binaries and temp files in backends
+backends/**/build/
+backends/**/bin/
+backends/**/obj/
+backends/**/CMakeFiles/
+backends/**/CMakeCache.txt
+
+# Ignore miscellaneous unnecessary files
+*.iml
+*.ipch
+*.sdf
+*.class
+*.pyc
+*.pyo
+
+# Ignore CMake build artifacts
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Ignore project-specific configurations (if any)
+*.config
+*.settings
